@@ -50,6 +50,22 @@
 
 提交的文章会有专人进行审核，并给出修改意见，完成修改后文章会转交给运营同学进行发布。
 
+**Review 操作指导：**
+
+由于在 GitHub 的 `Files changed` 页签中，无法直接预览 markdown 文件中的图片，不便于审核，因此可以通过使用 GitHub 提供的在线 codespace 进行 review。
+
+在 PR 的 `Files changed` 页签中，点击右上角的 `Review in codespace`：
+
+![review-step-1](./images/review-step-1.png)
+
+进入在线 vscode 后，在目录中单击打开需要 review 的文件，然后可以通过 `ctrl+shift+v`（Mac 是 `ctrl+cmd+v`）或点击右上角的按钮实现实时预览：
+
+![review-step-2](./images/review-step-2.png)
+
+单击 markdown 文件左侧的 `+` 即可添加 review 意见：
+
+![review-step-3](./images/review-step-3.png)
+
 ### 文章发布
 
 由运营同学（马铭新）进行发布。

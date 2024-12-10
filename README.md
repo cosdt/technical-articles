@@ -66,6 +66,8 @@
 
 ![review-step-3](./images/review-step-3.png)
 
+更多操作指导可以参考[<u>这里</u>](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request?tool=codespaces#starting-a-review)。
+
 ### 文章发布
 
 由运营同学（马铭新）进行发布。
